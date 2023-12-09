@@ -11,6 +11,8 @@ export default function Home() {
     <>
                 <header className="flex items-center justify-between px-6 py-4 bg-white dark:bg-gray-800">
         <Link href="#">
+        <Image src="/logo.jpeg" alt="logo" width={30} height={30} />
+              <div className="font-bold text-lg">frontforumfocus</div>
           
           <span className="sr-only">FrontForumFocus</span>
         </Link>
