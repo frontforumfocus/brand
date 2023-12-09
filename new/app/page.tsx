@@ -43,7 +43,7 @@ export default function Home() {
                 alt="Hero"
                 className="mx-auto aspect-video overflow-hidden rounded-xl object-cover sm:w-full lg:order-last lg:aspect-square"
                 height="550"
-                src="/f33.jpg"
+                src="/design.jpg"
                 width="550"
               />
               <div className="flex flex-col justify-center space-y-4">
