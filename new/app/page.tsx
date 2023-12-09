@@ -30,7 +30,7 @@ export default function Home() {
             Contact
           </Link>
         </nav>
-        <Button className="px-6 py-2 text-sm text-white bg-blue-600 hover:bg-blue-500" variant="primary">
+        <Button className="px-6 py-2 text-sm text-white bg-blue-600 hover:bg-blue-500">
           Get Started
         </Button>
       </header>
