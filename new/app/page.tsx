@@ -31,7 +31,8 @@ export default function Home() {
           </Link>
         </nav>
         <Button className="px-6 py-2 text-sm text-white bg-blue-600 hover:bg-blue-500">
-          Get Started
+        <a href="/api/auth/login">Get Started</a>
+          
         </Button>
       </header>
 
