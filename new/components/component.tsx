@@ -35,7 +35,7 @@ export function Component() {
       <main className="px-6 py-12 md:py-24 bg-white dark:bg-gray-800">
         <section className="space-y-8 text-center">
           <h1 className="text-3xl font-bold text-gray-900 dark:text-gray-100">
-            Empower Your Impact with FrontForumFocus
+            Empower Your Impact with frontforumfocus
           </h1>
           <p className="text-lg text-gray-600 dark:text-gray-300">
             Bring your skills and passion to the global stage. Join like-minded individuals in creating innovative
@@ -46,7 +46,7 @@ export function Component() {
           </Button>
         </section>
         <section className="mt-16 space-y-8">
-          <h2 className="text-2xl font-bold text-center text-gray-900 dark:text-gray-100">Why FrontForumFocus?</h2>
+          <h2 className="text-2xl font-bold text-center text-gray-900 dark:text-gray-100">Why frontforumfocus?</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <Card>
               <CardHeader>
@@ -82,7 +82,7 @@ export function Component() {
         </section>
       </main>
       <footer className="flex items-center justify-between px-6 py-4 bg-white dark:bg-gray-800">
-        <p className="text-gray-600 dark:text-gray-300">© FrontForumFocus. All rights reserved.</p>
+        <p className="text-gray-600 dark:text-gray-300">© frontforumfocus. All rights reserved.</p>
         <nav className="space-x-4">
           <Link className="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-gray-50" href="#">
             Privacy Policy
