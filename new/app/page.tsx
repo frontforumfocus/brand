@@ -70,7 +70,7 @@ export default function Home() {
           </div>
         </section>
         <section className="mt-16 space-y-8">
-          <h2 className="text-2xl font-bold text-center text-gray-900 dark:text-gray-100">Why FrontForumFocus?</h2>
+          <h2 className="text-2xl font-bold text-center text-gray-900 dark:text-gray-100">Why frontforumfocus?</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <Card>
               <CardHeader>
