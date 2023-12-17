@@ -28,7 +28,7 @@ export function Component() {
             Contact
           </Link>
         </nav>
-        <Button className="px-6 py-2 text-sm text-white bg-blue-600 hover:bg-blue-500" variant="primary">
+        <Button className="px-6 py-2 text-sm text-white bg-blue-600 hover:bg-blue-500">
           Get Started
         </Button>
       </header>
@@ -41,7 +41,7 @@ export function Component() {
             Bring your skills and passion to the global stage. Join like-minded individuals in creating innovative
             solutions for a sustainable future.
           </p>
-          <Button className="px-8 py-3 text-sm text-white bg-blue-600 hover:bg-blue-500" variant="primary">
+          <Button className="px-8 py-3 text-sm text-white bg-blue-600 hover:bg-blue-500">
             Start Now
           </Button>
         </section>
@@ -97,7 +97,7 @@ export function Component() {
 }
 
 
-function FocusIcon(props) {
+function FocusIcon(props: any) {
   return (
     <svg
       {...props}
